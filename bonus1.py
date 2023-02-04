@@ -1,4 +1,7 @@
-text = input("Enter a title: ")
+
+input_text = input("Enter a title: ")
+
+while True:
 
 length = len(text)
 
